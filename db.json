@@ -1,6 +1,6 @@
 {
     "translate": [
-        { "id": 1,"language": "fr","translations":[{"1":"Mot de passe","2":"Confirmer votre mot de passe","3":"S'inscrire"}],"created_at":"2022-12-27T09:42:30.000000Z","updated_at": "2022-12-27T09:42:30.000000Z"},
+        { "id": 1,"language": "fr","translations":[{"M1":"Mot de passe","M2":"Confirmer votre mot de passe","M3":"S'inscrire"}],"created_at":"2022-12-27T09:42:30.000000Z","updated_at": "2022-12-27T09:42:30.000000Z"},
         { "id": 2,"language": "fr","translations":["translation_fr"],"created_at": "2022-12-27T09:42:30.000000Z","updated_at": "2022-12-27T09:42:30.000000Z"}
     ]
 }
