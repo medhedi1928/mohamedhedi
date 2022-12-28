@@ -1,6 +1,6 @@
 {
     "translate": [
-        { "id": 1,"language": "fr","translations":[{"m1":"Mot de passe","m2":"Confirmer votre mot de passe","m3":"S'inscrire"}],"created_at":"2022-12-27T09:42:30.000000Z","updated_at": "2022-12-27T09:42:30.000000Z"},
-                { "id": 2,"language": "nl","translations":[{"m1":"Wachtwoord","m2":"Bevestig uw wachtwoord","m3":"Register"}],"created_at":"2022-12-27T09:42:30.000000Z","updated_at": "2022-12-27T09:42:30.000000Z"}
+        { "id": 1,"language": "fr","translations":[{"m1":"Mot de passe","m2":"Confirmer votre mot de passe","m3":"S'inscrire","m4":"Bienvenue sur U-Smile App"}],"created_at":"2022-12-27T09:42:30.000000Z","updated_at": "2022-12-27T09:42:30.000000Z"},
+                { "id": 2,"language": "nl","translations":[{"m1":"Wachtwoord","m2":"Bevestig uw wachtwoord","m3":"Register","m4":"Welkom bij de U-Smile-app"}],"created_at":"2022-12-27T09:42:30.000000Z","updated_at": "2022-12-27T09:42:30.000000Z"}
     ]
 }
